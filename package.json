@@ -13,7 +13,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "chokidar": "^1.6.0",
+    "chokidar": "^3.2.2",
     "coffee-script": "^1.10.0",
     "hubot": "^2.19.0",
     "hubot-electron": "git://github.com/saraford/hubot-electron.git#dac1fcc",
